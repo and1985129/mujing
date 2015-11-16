@@ -1,25 +1,25 @@
-Ionic App Base
-=====================
+Overview
+===================================
 
-A starting project for Ionic that optionally supports using custom SCSS.
+This is a car wash demo for O2O scenario based on Ionic framework
 
-## Using this project
+## Initial
 
-We recommend using the [Ionic CLI](https://github.com/driftyco/ionic-cli) to create new Ionic projects that are based on this project but use a ready-made starter template.
-
-For example, to start a new Ionic project with the default tabs interface, make sure the `ionic` utility is installed:
+You should install Ionic & Cordova first.
 
 ```bash
-$ npm install -g ionic
+$ sudo npm install -g ionic cordova
 ```
 
-Then run:
+Then clone this project.
+
+If you want to run this app, command below:
 
 ```bash
-$ ionic start myProject tabs
+$ ionic serve
 ```
 
-More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/getting-started) page and the [Ionic CLI](https://github.com/driftyco/ionic-cli) repo.
+## Initial Version
 
-## Issues
-Issues have been disabled on this repo, if you do find an issue or have a question consider posting it on the [Ionic Forum](http://forum.ionicframework.com/).  Or else if there is truly an error, follow our guidelines for [submitting an issue](http://ionicframework.com/submit-issue/) to the main Ionic repository.
+Version 0.1
+...
